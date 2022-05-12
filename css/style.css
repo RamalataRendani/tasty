@@ -503,7 +503,7 @@ clear:both;
 #fh5co-featured-menu .fh5co-item, #fh5co-gallery .fh5co-item, #fh5co-reservation-form .fh5co-item {
   float: left;
   width: 100%;
-  backround: #fff;
+  background: #F6F4F1;
 }
 #fh5co-featured-menu .fh5co-item.margin_top, #fh5co-gallery .fh5co-item.margin_top, #fh5co-reservation-form .fh5co-item.margin_top {
   margin-top: 150px;
@@ -1764,12 +1764,13 @@ clear:both;
 .form-control {
   box-shadow: none;
   background: transparent;
-  border: 2px solid rgba(255, 255, 255, 0.3);
+  border: 2px solid #000;
+  border-radius: 20px;
   height: 54px;
   font-size: 20px;
   font-weight: 300;
-  font-family: "Satisfy", cursive;
-  color: #fff;
+  font-family: 'Times New Roman', Times, serif;
+  color: #000;
 }
 .form-control:active, .form-control:focus {
   outline: none;
