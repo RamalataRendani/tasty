@@ -1291,6 +1291,9 @@ clear:both;
   #fh5co-footer .fh5co-footer-links {
     margin-bottom: 30px;
   }
+  .text{
+    margin-bottom:30px ;
+  }
 }
 #fh5co-footer .fh5co-footer-links li {
   padding: 0;
